@@ -1,0 +1,23 @@
+The following are python libraries to install:
+Flask
+waitress
+torch
+tensorflow
+flax
+
+How to install them:
+pip install Flask
+pip install waitress
+pip install torch
+pip install tensorflow
+pip install flax
+
+How to set up and activate a virtual environment:
+(WindowsOS)
+python -m venv venv
+venv\Scripts\activate
+
+(macOS/Linux)
+python -m venv venv
+source venv/bin/activate
+
